@@ -1,0 +1,29 @@
+*{
+    background:lightgray;
+}
+.test{
+    float: left;
+    height:"550px";
+    width:"550px";
+    margin: 15px;
+    border:black 2px solid;
+}
+.header{
+    background:blue;
+    color:white;
+    font-size:40px;
+    font-style: bold;
+    text-align:center;
+}
+form{
+    background:blue;
+}
+input{
+    margin:3px;
+}
+#buttonsarea{
+    background: blue;
+}
+.arrayBut{
+    margin:2px;
+}
